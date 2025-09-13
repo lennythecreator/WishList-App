@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://submissions.us-east-1.linodeobjects.com/and102/chUVzS2t.gif)
+<img src="https://submissions.us-east-1.linodeobjects.com/and102/chUVzS2t.gif" title="Video Walkthrough" alt="Video Walkthrough" width="600" />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
