@@ -2,7 +2,7 @@
 
 Submitted by: **Lenny Uwaeme**
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+**Wish List** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **4** hours spent in total
 
